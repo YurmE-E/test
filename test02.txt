@@ -6,3 +6,5 @@ pull
 commit & push
 
 index
+
+수정
