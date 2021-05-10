@@ -8,3 +8,4 @@ commit & push
 index
 
 수정
+conflict 때 replace head~
