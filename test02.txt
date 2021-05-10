@@ -11,4 +11,4 @@ index
 
 conflict 발생
 
-진짜
+replace with head revision
