@@ -10,5 +10,3 @@ index
 수정
 
 conflict 발생
-
-진짜
