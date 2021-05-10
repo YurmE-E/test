@@ -4,4 +4,3 @@ pull
 
 
 commit & push
-commit
