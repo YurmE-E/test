@@ -1,5 +1,5 @@
 commit 따로 하기 11
-commit 따로 하기 2
+commit 따로 하기 22
 
 commit 같이 하기
 
