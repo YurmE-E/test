@@ -1,8 +1,1 @@
-test01입니다.
-test01 수정
-
-revert하기
-
-HELLLLLO!
-
 commit 따로 하기 1
